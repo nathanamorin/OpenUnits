@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OpenUnits</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="array_length_units">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="array_weight_units">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ton</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="array_temperature_units">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+
+    </string-array>
+</resources>
