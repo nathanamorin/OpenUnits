@@ -2,7 +2,7 @@
 
 ##Demo Video
 
-
+<https://www.youtube.com/embed/dk6cATT6pOE>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dk6cATT6pOE" frameborder="0" allowfullscreen></iframe>
 
 ##Created for CNIT 355 @ Purdue University
